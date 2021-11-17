@@ -1,0 +1,30 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "description": "Code and raw files for the Direct Elution methods paper",
+  "name": "OrbitrapDirectElutionMethod",
+  "codeRepository": "https://github.com/szeichner/DirectElution",
+  "issueTracker": "https://github.com/szeichner/DirectElution/issues",
+  "license": "PICK A LICENSE",
+  "version": "1.0.0",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Sarah",
+      "familyName": "Zeichner",
+      "affiliation": "Caltech",
+      "email": "szeichner@caltech.edu",
+      "@id": "https://orcid.org/0000-0001-8897-7657"
+    }],
+  "developmentStatus": "active",
+  "downloadUrl":
+  "https://github.com/szeichner/DirectElution/releases",
+  "keywords": [
+    "Orbitrap",
+    "caltechorbi",
+    "software",
+    "GitHub"
+  ],
+  "maintainer": "https://orcid.org/0000-0001-8897-7657",
+  "programmingLanguage": "Python"
+}
